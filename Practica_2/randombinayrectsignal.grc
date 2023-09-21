@@ -73,7 +73,7 @@ blocks:
   id: variable
   parameters:
     comment: ''
-    value: np.array([1,1,1,1,1,1,1,1])
+    value: np.array([1,1,1,1])
   states:
     bus_sink: false
     bus_source: false
@@ -714,8 +714,8 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1332.0, 256]
-    rotation: 270
+    coordinate: [1184, 252.0]
+    rotation: 180
     state: enabled
 - name: virtual_sink_0_1_0_0
   id: virtual_sink
@@ -748,7 +748,7 @@ blocks:
   parameters:
     alias: ''
     comment: ''
-    stream_id: p5
+    stream_id: p4
   states:
     bus_sink: false
     bus_source: false
