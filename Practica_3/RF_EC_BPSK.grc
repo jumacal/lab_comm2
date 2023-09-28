@@ -402,7 +402,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [807, 9]
+    coordinate: [696, 12.0]
     rotation: 0
     state: true
 - name: import_0_0
@@ -1211,4 +1211,4 @@ connections:
 
 metadata:
   file_format: 1
-  grc_version: 3.10.5.1
+  grc_version: 3.10.7.0
